@@ -1,0 +1,10 @@
+.caixa-texto {
+    width: 250px;
+    height: 100px;
+    border: 3px solid #800080;
+    border-radius: 8px;
+    box-shadow: 1px 1px 2px rgba(128, 128, 128, 0.5);
+    margin: 20px;
+    padding: 10px;
+    background-color: #f2f2f2;
+}

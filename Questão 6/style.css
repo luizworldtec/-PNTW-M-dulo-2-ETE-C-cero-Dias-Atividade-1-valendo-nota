@@ -1,0 +1,15 @@
+.minha-tabela {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.minha-tabela tr:first-child {
+    background-color: #f0f8ff;
+    color: #ff6347;
+}
+
+.minha-tabela td:last-child {
+    background-color: #ffe4e1;
+}

@@ -1,0 +1,18 @@
+.imagem-caixa {
+    width: 500px;
+    height: 300px;
+    border: 1px solid #000;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.texto-caixa {
+    width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+.texto-caixa h1, .texto-caixa p {
+    color: black;
+}
